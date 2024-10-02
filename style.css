@@ -1,0 +1,12 @@
+.title{
+    color: crimson;
+    font-size: 40px;
+    text-align: center;
+}
+.signup{
+    border-radius: 5px;
+    background-color:lawngreen;
+    border-width: 0px;
+    padding: 10px;
+    float: right;
+}
