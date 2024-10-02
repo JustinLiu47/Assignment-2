@@ -1,7 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
 .title{
-    color: crimson;
+    color:white;
+    background: linear-gradient(90deg, rgb(255,0,0) 0%, rgb(100,0,0) 100%);
     font-size: 40px;
     text-align: center;
+    padding: 20px;
+    padding-right: 0px;
 }
 .signup{
     border-radius: 5px;
@@ -9,4 +16,13 @@
     border-width: 0px;
     padding: 10px;
     float: right;
+    margin: 10px;
+}
+.signin{
+    border-radius: 5px;
+    background-color:aqua;
+    border-width: 0px;
+    padding: 10px;
+    float: right;
+    margin: 10px;
 }
